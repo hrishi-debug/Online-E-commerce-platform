@@ -7,4 +7,21 @@ An ecommerce platform is the content management system (CMS) and commerce engine
 # Features
 
 
+Ecommerce platforms offer features like product listings, digital shopping carts, and payment processing. They also help businesses manage their inventory, customize their website's front-end, and improve the online shopping experience for customers.
+
+# Project Structure
+The product divided into two main folders:
+     src/main/resources/
+                   Contains the backend code, including API routes, controllers, and database models.
+
+    src/
+           Contains the frontend code built with React.
+
+
+
+
+
+
+
+
 
