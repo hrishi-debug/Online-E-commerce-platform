@@ -19,6 +19,23 @@ The product divided into two main folders:
            Contains the frontend code built with React.
 
 
+# Getting Started
+ #prerequisites
+ Ensure  you havethe following installed:
+        meaven
+        Tomcat server
+        Git
+
+#installation
+   
+
+
+
+
+
+
+
+
 
 
 
