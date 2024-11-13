@@ -11,7 +11,8 @@ Ecommerce platforms offer features like product listings, digital shopping carts
 
 # Project Structure
 The product divided into two main folders:
-     src/main/resources/
+    
+    src/main/resources/
                    Contains the backend code, including API routes, controllers, and database models.
 
     src/
