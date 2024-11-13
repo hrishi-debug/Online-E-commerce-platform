@@ -20,14 +20,18 @@ The product divided into two main folders:
 
 
 # Getting Started
- #prerequisites
- Ensure  you havethe following installed:
+ # prerequisites
+    Ensure  you havethe following installed:
         meaven
         Tomcat server
         Git
 
-#installation
+ # installation
    
+      https://github.com/hrishi-debug/Online-E-commerce-platform.git
+      
+      onlineEcommerce-webApp
+
 
 
 
