@@ -34,7 +34,8 @@ The product divided into two main folders:
 
 # ScreenShorts
  # Home Page
-       
+     ![WhatsApp Image 2024-11-13 at 21 16 51_39be0022](https://github.com/user-attachments/assets/a97618bc-3f39-412a-be22-fda2e7e16bb7)
+  
   
 
 
