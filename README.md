@@ -36,8 +36,11 @@ The product divided into two main folders:
  # Home Page
 ![Home](https://github.com/user-attachments/assets/a97618bc-3f39-412a-be22-fda2e7e16bb7)
   
-  
+  # Search Page
+![find-My-Geo](https://github.com/user-attachments/assets/b6e17d41-c58e-4064-a675-b718e68ff8db)
 
+ # Product Detail
+![product detail](https://github.com/user-attachments/assets/53895f1b-9d51-4008-9029-1a3968645114)
 
 
 
